@@ -1,11 +1,6 @@
 projects:
-  - title: "Exobrain"
-    subtitle: "Korean National Research Project on Question Answering funded by the Institute for Information & communications Technology Planning & Evaluation (IITP) and the Korean government (MSIT) (No. 2013-0-00131)"
-    thumbnail: "assets/projects/2016_network-ab/thumbnail.jpg"
-    url: "http://exobrain.kr/?lang=en"
-    selected: y
-  - title: "Rich Context Competition"
-    subtitle: "International ML competition to discover dataset mentions on scientific publiations. Honorific mention"
-    thumbnail: "assets/projects/2016_network-ab/thumbnail.jpg"
-    url: "https://coleridgeinitiative.org/richcontextcompetition/workshopagenda/"
+  - title: "KAIST Swimming Team KAORI Webpage"
+    # subtitle: "Korean National Research Project on Question Answering funded by the Institute for Information & communications Technology Planning & Evaluation (IITP) and the Korean government (MSIT) (No. 2013-0-00131)"
+    thumbnail: "assets/projects/kaori-web/logo_kaori.svg"
+    url: "http://www.kaist-kaori.org"
     selected: y
