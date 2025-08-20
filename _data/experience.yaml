@@ -1,5 +1,18 @@
 experiences:
 
+
+- place: "Urban Robotics Lab"
+  time: "Jun. 2025 - "
+  title: "Research Intern"
+  subtitle: "6D Pose Estimation"
+  category: "research"
+
+- place: "SIIT Lab"
+  time: "Jul. 2024 - Aug. 2024"
+  title: "Individual Study"
+  subtitle: "Vision Language Multimodal"
+  category: "research"
+
 - place: "KC-ML2"
   time: "Aug. 2024 - "
   title: "Research Intern"
