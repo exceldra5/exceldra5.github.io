@@ -191,3 +191,9 @@ h4 {
   .popover-item:first-child .popover-link:hover:after {
     border-bottom-color: #33C3F0; }
 }
+
+/* Supervisor line style */
+.supervisor { font-size: 0.9em; color: #666; margin-top: 2px; }
+.supervisor a { text-decoration: none; }
+.supervisor::before { content: "Supervisor: "; }
+.supervisor:empty { display: none; }
