@@ -5,3 +5,8 @@ includes:    ./_includes
 collections:
   projects:
     output: true
+
+exclude:
+  - README.md
+  - README_GIT.md
+  - __deploy.sh
