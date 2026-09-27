@@ -15,6 +15,15 @@ h4 {
   margin-top: 5px; }
 .paper {
   margin-bottom: 20px }
+/* Equal-contribution marker: keep <sup> semantics, drop the raised tiny-asterisk look */
+#publications sup {
+  font-size: 1em;
+  font-weight: 700;
+  vertical-align: baseline;
+  top: 0 }
+/* Venue name: upright bold so it separates from the italic track name (drop this rule to keep it italic) */
+#publications .paper i b {
+  font-style: normal }
 .paper .title {
   /*text-transform: uppercase; */}
 .paper p {
