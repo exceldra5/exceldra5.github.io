@@ -1,28 +1,28 @@
 experiences:
 
-- place: "NMAIL"
+- place: "KAIST NMAIL"
   time: "Mar. 2026 - Jul. 2026"
+  title: "Research Intern"
+  subtitle: "GRF-based Body Weight Estimation"
+  category: "research"
+
+- place: "KAIST URL"
+  time: "Jun. 2025 - Feb. 2026"
   title: "Research Intern"
   subtitle: "Robot Perception"
   category: "research"
 
-- place: "Urban Robotics Lab"
-  time: "Jun. 2025 - Feb. 2026"
+- place: "KC-ML2"
+  time: "Aug. 2024 - Feb. 2025"
   title: "Research Intern"
-  subtitle: "6D Pose Estimation"
+  subtitle: "Relocalization for Robot Mapping"
   category: "research"
 
-- place: "SIIT Lab"
+- place: "KAIST SIIT"
   time: "Jul. 2024 - Aug. 2024"
   title: "Individual Study"
   subtitle: "Vision Language Multimodal"
   category: "research"
-
-- place: "KC-ML2"
-  time: "Aug. 2024 - "
-  title: "Research Intern"
-  subtitle: "Robotics"
-  category: "work"
 
 - place: "Bookend"
   time: "May. 2023 - Aug. 2024"
